@@ -1,3 +1,5 @@
+This project is a simple way of learning how to get data from an API. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
